@@ -1,0 +1,7 @@
+F:\C# by Miss Aqsa\Value and Reference Type in C#\Value and Reference Type in C#\bin\Debug\Value and Reference Type in C#.exe.config
+F:\C# by Miss Aqsa\Value and Reference Type in C#\Value and Reference Type in C#\bin\Debug\Value and Reference Type in C#.exe
+F:\C# by Miss Aqsa\Value and Reference Type in C#\Value and Reference Type in C#\bin\Debug\Value and Reference Type in C#.pdb
+F:\C# by Miss Aqsa\Value and Reference Type in C#\Value and Reference Type in C#\obj\Debug\Value and Reference Type in C#.csproj.AssemblyReference.cache
+F:\C# by Miss Aqsa\Value and Reference Type in C#\Value and Reference Type in C#\obj\Debug\Value and Reference Type in C#.csproj.CoreCompileInputs.cache
+F:\C# by Miss Aqsa\Value and Reference Type in C#\Value and Reference Type in C#\obj\Debug\Value and Reference Type in C#.exe
+F:\C# by Miss Aqsa\Value and Reference Type in C#\Value and Reference Type in C#\obj\Debug\Value and Reference Type in C#.pdb
